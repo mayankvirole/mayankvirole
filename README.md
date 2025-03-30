@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mayankvirole
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently working with Vue.js
-- 💞️ I’m looking to collaborate on MEVN stack projects
+- 🌱 I’m currently working with Spring Boot
 - 📫 You can reach me @mayankvirole@gmail.com
 
 
